@@ -44,8 +44,8 @@ print(c)
 # In[5]:
 
 
-x =5
-y = 10
+x =2
+y = 4
 z=x^y 
 print(z)
 
